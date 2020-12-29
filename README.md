@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Demo Shopping Cart Hplus
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+AWS aplify to Deploy the Dir to AWS 
 
 ## Available Scripts
 
