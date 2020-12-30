@@ -1,4 +1,4 @@
-# Demo Shopping Cart Hplus
+# Demo Shopping Cart Hplus using React component AWS Cognito authentication and deployed using AWS Amplify
 
 # AWS Amplify 
 # initialize Amplify 
