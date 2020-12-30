@@ -1,6 +1,14 @@
 # Demo Shopping Cart Hplus
 
-AWS aplify to Deploy the Dir to AWS 
+# AWS Amplify 
+# initialize Amplify 
+use amplify init
+# add authentication 
+amplify add auth
+# push changes to cloud
+amplify push
+# add api to the application 
+amplify add api 
 
 ## Available Scripts
 
