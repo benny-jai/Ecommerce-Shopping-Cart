@@ -2,18 +2,18 @@
   "dev": {
     "awscloudformation": {
       "AuthRoleName": "amplify-hplus-dev-155509-authRole",
-      "UnauthRoleArn": "arn:aws:iam::812574023636:role/amplify-hplus-dev-155509-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::812574023636:role/amplify-hplus-dev-155509-authRole",
+      "UnauthRoleArn": "arn:aws:iam::roleid- yOur",
+      "AuthRoleArn": "arn:aws:iam::Your ARN",
       "Region": "us-east-1",
       "DeploymentBucketName": "amplify-hplus-dev-155509-deployment",
       "UnauthRoleName": "amplify-hplus-dev-155509-unauthRole",
-      "StackName": "amplify-hplus-dev-155509",
-      "StackId": "arn:aws:cloudformation:us-east-1:812574023636:stack/amplify-hplus-dev-155509/b71783d0-4348-11eb-958e-12417e4a260f",
-      "AmplifyAppId": "d23iz5m5gy4j0d"
+      "StackName": "amplify-hplus",
+      "StackId": "arn:aws:cloudformation:us-east-1:-YouID",
+      "AmplifyAppId": "YOURID"
     },
     "categories": {
       "auth": {
-        "hplus7a147792": {}
+        "hplus": {}
       }
     }
   }
